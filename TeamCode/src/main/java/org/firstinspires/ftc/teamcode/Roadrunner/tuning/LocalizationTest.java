@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.Roadrunner.messages.tuning;
+package org.firstinspires.ftc.teamcode.Roadrunner.tuning;
 
 import com.acmerobotics.dashboard.FtcDashboard;
 import com.acmerobotics.dashboard.telemetry.MultipleTelemetry;

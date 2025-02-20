@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.Roadrunner.messages.tuning;
+package org.firstinspires.ftc.teamcode.Roadrunner.tuning;
 
 import com.acmerobotics.roadrunner.Pose2d;
 import com.acmerobotics.roadrunner.Vector2d;
